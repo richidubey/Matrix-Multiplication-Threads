@@ -1,2 +1,2 @@
 # Matrix-Multiplication-Threads
-Matric multiplication by threads in C
+Matrix multiplication by threads in C
